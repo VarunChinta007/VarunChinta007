@@ -149,7 +149,7 @@ My work spans exploratory data analysis, predictive modeling with Scikit-learn, 
 
 I am actively open to discussing full-time opportunities, data science projects, and software engineering collaborations. Feel free to reach out:
 
-- 💼 **LinkedIn:** [linkedin.com/in/varunchinta](https://www.linkedin.com/in/varunchinta)
+- 💼 **LinkedIn:** [linkedin.com/in/varunchinta](https://www.linkedin.com/in/varun-chinta-249618249).
 - 🐙 **GitHub:** [github.com/VarunChinta007](https://github.com/VarunChinta007)
 - ✉️ **Email:** [chintavarun007@gmail.com](mailto:chintavarun007@gmail.com)
 - 📍 **Location:** India
